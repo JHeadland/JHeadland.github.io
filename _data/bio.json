@@ -1,83 +1,70 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "John Headland",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "JHeadland.github.io/images/profile_pic.jpg",
+    "email": "jth9@hawaii.edu",
+    "phone": "808-218-3167",
+    "website": "https://jheadland.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "87-1024 Konini Street",
+      "postalCode": "96792",
+      "city": "Waianae",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "JHeadland",
+        "url": "https://github.com/jheadland"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jheadland",
+        "url": "https://www.linkedin.com/in/john-headland-634b67123"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "GNU/Linux",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Operating System",
+        "Linux"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cybersecurity",
       "keywords": [
+        "pentesting",
+        "network security"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "game development",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languagess",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "GNU/Linux",
+        "Arch Linux",
+        "Debian",
+        "Fedora",
       ]
     }
   ],
@@ -86,7 +73,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-05-xx",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -104,19 +91,6 @@
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
   ],
   "volunteer": [
