@@ -82,16 +82,17 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DevLeague",
+      "position": "Instructor for Junior DevLeague",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-06-xx",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Teaching programming to middle to high school students.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-    }
+        "Plan curriculum and generate content",
+        "Lead instruction with a fellow teacher for multiple classes"
+      ]
+    },
   ],
   "volunteer": [
     {
