@@ -12,9 +12,7 @@ labels:
 summary: I coded a simple True/False quiz app for Android for an Android Application Development class I taught over the summer.
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/geoquizcode.png">
-</div>
 
 GeoQuiz is a simple Android app that uses textviews, buttons, toasts, and menus to present a question about geography to the user. The user answers the question by pressing a "True" or "False" button and a toast appears indicating if they were correct or not. They must press another button to view the next question. While this app may seem simple, coding it definitely wasn't. I used the Android Studio IDE with Java and XML to create the app. Android Studio isn't easy to use, and requires intermediate to advanced Java and XML knowledge, as well as knowledge on the Android API and how apps work.
 
