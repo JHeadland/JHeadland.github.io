@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/geoquizcode.png
 title: GeoQuiz
 permalink: projects/geoquiz
 date: 2016
