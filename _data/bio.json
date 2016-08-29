@@ -6,7 +6,7 @@
     "email": "jth9@hawaii.edu",
     "phone": "808-218-3167",
     "website": "https://jheadland.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "87-1024 Konini Street",
       "postalCode": "96792",
@@ -73,7 +73,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2014-05-xx",
+      "startDate": "2014-05",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,7 +85,7 @@
       "company": "DevLeague",
       "position": "Instructor for Junior DevLeague",
       "website": "",
-      "startDate": "2016-06-xx",
+      "startDate": "2016-06",
       "endDate": "Present",
       "summary": "Teaching programming to middle to high school students.",
       "highlights": [
@@ -93,46 +93,63 @@
         "Lead instruction with a fellow teacher for multiple classes"
       ]
     },
-  ],
-  "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "company": "University of Hawaii at Manoa Math Department",
+      "position": "MATH134 Tutor/Teaching Assistant",
+      "website": "",
+      "startDate": "2015-01",
+      "endDate": "2015-05",
+      "summary": "Assisted in the instruction of a Precalculus MATH134 class.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Demonstrate mathematical techniques in teacher's absence",
+        "Helped the teacher with grading and administration of tests",
+        "Attended MATH134 classes twice a week to assist students"
       ]
     },
     {
-      "organization": "",
+      "company": "University of Hawaii at Manoa ICS Department",
+      "position": "Research Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2014-06",
+      "endDate": "2014-07",
+      "summary": "Studied and optimized the cost and runtime of digital circuits under Dr. Peter Michael-Seidel",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Studied the simulation of digital circuits using the Logisim program",
+        "Optimized the runtime of digital circuits with Vivado software",
+        "Researched cost/time efficient circuitry currently used in upper-division classes"
       ]
-    }
+    },
+    {
+      "company": "Tripler Army Medical Center",
+      "position": "CNA Intern",
+      "website": "",
+      "startDate": "2012-09",
+      "endDate": "2013-05",
+      "summary": "Performed the duties of a Certified Nursing Assistant",
+      "highlights": [
+        "Shadowed doctors and nurses in various wards/clinics and departments",
+        "Provided personal patient care in Physical & Occupational Therapy"
+      ]
+    },
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "College of Natural Sciences Dean's List",
+      "date": "2014-Present",
+      "awarder": "University of Hawaii at Manoa College of Natural Sciences",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hawaii Rotary Youth Foundation Scholarship",
+      "date": "2014",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Scholarship awarded to a Hawaii high school senior."
+    }
+    {
+      "title": "1st Place HOSA State Competition in Physical Therapy",
+      "date": "2013",
+      "awarder": "Health Occupations Student Association (HOSA)",
+      "summary": "Won 1st place in the state competition for demonstrating physical therapy knowledge and skills. Competed at national level."
     }
   ],
   "references": [
