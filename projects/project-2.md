@@ -1,24 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/imac_ubuntu.jpg
+title: Dual-Booting Ubuntu on iMacs
+permalink: projects/dualboot
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - GNU/Linux
+  - Ubuntu
+  - iMac
+  - Mac OS X
+summary: I dual-booted Ubuntu on 2015 iMac Intels for a GNU/Linux class I teach, and created a guide detailing how to do so.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/ubuntu_on_imac.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I work for the junior side of DevLeague, a coding bootcamp, Junior DevLeague. Junior DevLeague recently opened up an Academy, and I teach a GNU/Linux + Python networking class every Saturday to middle to high school students with a co-worker, [Irene Fang](https://irene-f.github.io/). Our Academy space only has the latest iMacs available, and we wanted to run GNU/Linux on the computers for the students to interact with the OS. We attempted to load Debian on the iMacs, but that was nigh impossible as the Apple hardware is really only compatible with Apple software.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+We eventually succeeded in installing Ubuntu 16.04.1, and created a comprehensive guide on dual-booting it on the iMacs alongside OS X using the rEFInd boot menu. [Here is the installation guide we wrote.](https://docs.google.com/document/d/1w4PWbVEAnQigRdpTpKcBaXpEsLkMOYWQBlq4wS1noHU/edit?usp=sharing)
