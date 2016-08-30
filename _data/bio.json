@@ -36,10 +36,11 @@
       ]
     },
     {
-      "name": "cybersecurity",
+      "name": "computer security",
       "keywords": [
         "pentesting",
-        "network security"
+        "network security",
+        "cybersecurity"
       ]
     },
     {
