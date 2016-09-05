@@ -20,7 +20,7 @@ I made this app in preparation for an Android App Development course I taught at
 
 I definitely learned quite a bit from this project. Android Studio is surprisingly difficult and having the experience of using it, even briefly for such a simple project, makes me feel more confident in my ability to make apps in the future. Mobile app development is booming in the programming business, and the knowledge of the IDE is incredibly important, especially with app-specific funcitonalities that this project required me to use, including toasts, buttons, textviews, and layouts. I also learned a few things about Java, such as anonymous & local inner classes and event listeners. The interaction with XML was another new thing for me, as I had never worked with markup languages prior to this app.
 
-[Here is my source code for GeoQuiz.](https://github.com/JHeadland/GeoQuizAndroidApp) It's uploaded at a tar.gz archive because GitHub wouldn't let me upload the source files individually (it was too big).
+[Here is my source code for GeoQuiz.](https://github.com/JHeadland/GeoQuizAndroidApp) It's uploaded as a tar.gz archive because GitHub wouldn't let me upload the source files individually (it was too big).
 
 
 
