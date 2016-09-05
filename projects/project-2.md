@@ -15,7 +15,7 @@ summary: I dual-booted Ubuntu on 2015 iMac Intels for a GNU/Linux class I teach,
 
 <img class="ui medium right floated rounded image" src="../images/ubuntu_on_imac.jpg">
 
-I work for the junior side of DevLeague, a coding bootcamp, Junior DevLeague. Junior DevLeague recently opened up an Academy, and I teach a GNU/Linux + Python networking class every Saturday to middle to high school students with my co-worker, [Irene Fang](https://irene-f.github.io/). Our Academy space only has the latest iMacs available, and we wanted to run GNU/Linux on the computers for the students to interact with the OS. We attempted to load Debian on the iMacs, but that was nigh impossible as the Apple hardware is really only compatible with Apple software.
+I work for the junior side of DevLeague (a coding bootcamp), Junior DevLeague. Junior DevLeague recently opened up an Academy, and I teach a GNU/Linux + Python networking class every Saturday to middle to high school students with a fellow instructor. Our Academy space only has the latest iMacs available, and we wanted to run GNU/Linux on the computers for the students to interact with the OS. We attempted to load Debian on the iMacs, but that was nigh impossible as the Apple hardware is really only compatible with Apple software.
 
 I learned a lot about Mac OS X from this. Before, I had minimal exposure due to my dislike of Apple products, and having to dual-boot another OS on iMacs furthers my dislike of it. Apple hardware & drivers are extremely proprietary to the point where nothing other than Apple software works on the iMac Intels. Without this project, I wouldn't have known about how OS X works in the base level with its boot loaders and BIOS.
 
