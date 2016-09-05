@@ -2,15 +2,15 @@
   "basics": {
     "name": "John Headland",
     "label": "Student",
-    "picture": "JHeadland.github.io/images/profile_pic.jpg",
+    "picture": "https://JHeadland.github.io/images/profile_pic.jpg",
     "email": "jth9@hawaii.edu",
     "phone": "808-218-3167",
     "website": "https://jheadland.github.io",
     "summary": "I am studying for a B.S. in Computer Science with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "87-1024 Konini Street",
-      "postalCode": "96792",
-      "city": "Waianae",
+      "address": "2585 Dole St",
+      "postalCode": "96822",
+      "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
