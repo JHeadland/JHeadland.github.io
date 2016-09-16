@@ -9,7 +9,7 @@ labels:
   - configuration management
 ---
 
-<img class="ui medium center image" src="../images/baracktocat.jpg">
+<img class="ui medium center floated image" src="../images/baracktocat.jpg">
 
 Configuration management, or version control, is a fantastic concept and tool for software development. Not only does it allow solo developers to work on projects from anywhere with an internet connection and distribute their open-source software, it allows teams to effectively collaborate and produce great software. Managing the versions and and uploading source code is great for keeping track of changes and making sure each teammates' individual work works well with the entire team. Merging changes and resolving merge conflicts   is an  way to let no one's work go unnoticed or unimplemented. The ability to use Git from the command line is powerful, efficient, and fast. You can quickly pull, add, commit, and push changes and work on things right there in the terminal emulator.
 
