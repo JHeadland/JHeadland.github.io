@@ -5,6 +5,7 @@ title: U & I Don't Have to Argue Semantics
 date: 2016-10-06
 labels:
   - UI frameworks
+  - Semantic UI
 ---
 
 <img class="ui floated image" src="../images/SUIlogo.png">
