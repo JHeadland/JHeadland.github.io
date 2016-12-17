@@ -1,27 +1,22 @@
 ---
 layout: project
 type: project
-image: images/httfstressed.jpg
-title: Hack to the Future
-permalink: projects/httf
+image: images/landing.png
+title: Manoa: The Gathering
+permalink: projects/mtg
 date: 2016
 labels:
-  - Python
-  - Hacking
-  - Teaching
-summary: A class I taught and developed curriculum for during summer intersession.
+  - HTML/CSS/JS
+  - Meteor
+  - Semantic UI
+  - Software engineering
+  - Git/GitHub
+summary: The final group project for ICS 314 Software Engineering, in which we made a web application for an online version of the popular trading card game, Magic: the Gathering, with a UH Manoa flavor.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/httfstressed.jpg">
+<img class="ui medium left floated image" src="{{ site.baseurl }}/images/about.png">
+<img class="ui medium left right image" src="{{ site.baseurl }}/images/chat.png">
 
-Hack to the Future was a hacking & Python class I taught to Punahou middle school students during the week between summer school and Fall semester. I developed the curriculum within a span of days for the 9 hour, 5 day course. We began the class with an introduction to Linux and Bash, the latter being important later in the course (for using the tools Aircrack-ng, Reaver, and coding & using a Python brute force dictionary-attack SSH script). We covered the importance of privacy and security, as well as networking through Python and Bash.
 
-My role in teaching this course was as an instructor and curriculum developer alongside [Irene Fang](https://irene-f.github.io/). We both planned the classes and created the content together. I learned a great deal from teaching HTTF. I already knew about the networking concepts we covered from a previous class I taught, Hack My Planet (involving Raspberry Pis and IoT), but I didn't know much about the security concepts or tools. I had to do research to teach it, and as everyone knows, teaching is a great learning experience. Teaching this has definitely prepared me to take ICS 355 Security & Trust I this semester. Going into the class, I already know some of the course content and have interacted with the tools.
 
-Feedback from some of the students:
-
-"GREAT CLASS JON [sic] AND IRENE YOU DA BEST",
-
-"It was fun and challenging",
-
-"you guys r cool"
+If you want to see the source code or learn more about Manoa: The Gathering, [check out our GitHub Organization Page](https://github.com/manoa-the-gathering/).

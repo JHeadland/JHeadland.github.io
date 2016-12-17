@@ -1,22 +1,27 @@
 ---
 layout: project
 type: project
-image: images/imac_ubuntu.jpg
-title: Dual-Booting Ubuntu on iMacs
-permalink: projects/dualboot
+image: images/httfstressed.jpg
+title: Hack to the Future
+permalink: projects/httf
 date: 2016
 labels:
-  - GNU/Linux
-  - Ubuntu
-  - iMac
-  - Mac OS X
-summary: I dual-booted Ubuntu on 2015 iMac Intels for a GNU/Linux class I teach, and created a guide detailing how to do so.
+  - Python
+  - Hacking
+  - Teaching
+summary: A class I taught and developed curriculum for during summer intersession.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/ubuntu_on_imac.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/httfstressed.jpg">
 
-I work for the junior side of DevLeague (a coding bootcamp), Junior DevLeague. Junior DevLeague recently opened up an Academy, and I teach a GNU/Linux + Python networking class every Saturday to middle to high school students with a fellow instructor. Our Academy space only has the latest iMacs available, and we wanted to run GNU/Linux on the computers for the students to interact with the OS. We attempted to load Debian on the iMacs, but that was nigh impossible as the Apple hardware is really only compatible with Apple software.
+Hack to the Future was a hacking & Python class I taught to Punahou middle school students during the week between summer school and Fall semester. I developed the curriculum within a span of days for the 9 hour, 5 day course. We began the class with an introduction to Linux and Bash, the latter being important later in the course (for using the tools Aircrack-ng, Reaver, and coding & using a Python brute force dictionary-attack SSH script). We covered the importance of privacy and security, as well as networking through Python and Bash.
 
-I learned a lot about Mac OS X from this. Before, I had minimal exposure due to my dislike of Apple products, and having to dual-boot another OS on iMacs furthers my dislike of it. Apple hardware & drivers are extremely proprietary to the point where nothing other than Apple software works on the iMac Intels. Without this project, I wouldn't have known about how OS X works in the base level with its boot loaders and BIOS.
+My role in teaching this course was as an instructor and curriculum developer alongside [Irene Fang](https://irene-f.github.io/). We both planned the classes and created the content together. I learned a great deal from teaching HTTF. I already knew about the networking concepts we covered from a previous class I taught, Hack My Planet (involving Raspberry Pis and IoT), but I didn't know much about the security concepts or tools. I had to do research to teach it, and as everyone knows, teaching is a great learning experience. Teaching this has definitely prepared me to take ICS 355 Security & Trust I this semester. Going into the class, I already know some of the course content and have interacted with the tools.
 
-We eventually succeeded in installing Ubuntu 16.04.1 LTS, and created a comprehensive guide on dual-booting it on the iMacs alongside OS X using the rEFInd boot menu. [Here is the installation guide we wrote.](https://docs.google.com/document/d/1w4PWbVEAnQigRdpTpKcBaXpEsLkMOYWQBlq4wS1noHU/edit?usp=sharing)
+Feedback from some of the students:
+
+"GREAT CLASS JON [sic] AND IRENE YOU DA BEST",
+
+"It was fun and challenging",
+
+"you guys r cool"
