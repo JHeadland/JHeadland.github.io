@@ -14,8 +14,8 @@ labels:
 summary: The final group project for ICS 314 Software Engineering, in which we made a web application for an online version of the popular trading card game, Magic the Gathering, with a UH Manoa flavor.
 ---
 
-<img class="ui big left image" src="{{ site.baseurl }}/images/about.png">
-<img class="ui big right image" src="{{ site.baseurl }}/images/chat.png">
+<img class="ui big left floated image" src="{{ site.baseurl }}/images/about.png">
+<img class="ui big right floated image" src="{{ site.baseurl }}/images/chat.png">
 
 During my Fall semester of 2016, I took the ICS 314: Software Engineering course at the University of Hawaii at Manoa. For the class' final project, we had to work in a group to develop a web application unique to UH Manoa and only accessible to those with a UH account using the JavaScript web application framework, Meteor. In order to handle the design, we used the UI framework Semantic UI. Within our group of four, we had to apply the software engineering process during every step of building out our app, using Git and GitHub, as well as GitHub's project management and milestones.
 
