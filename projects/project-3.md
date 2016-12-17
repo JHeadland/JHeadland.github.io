@@ -11,7 +11,7 @@ labels:
   - Semantic UI
   - Software engineering
   - Git/GitHub
-summary: The final group project for ICS 314 Software Engineering, in which we made a web application for an online version of the popular trading card game, Magic: The Gathering, with a UH Manoa flavor.
+summary: The final group project for ICS 314 Software Engineering, in which we made a web application for an online version of the popular trading card game, Magic the Gathering, with a UH Manoa flavor.
 ---
 
 <img class="ui medium left floated image" src="{{ site.baseurl }}/images/about.png">
