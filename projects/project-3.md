@@ -17,6 +17,7 @@ summary: The final group project for ICS 314 Software Engineering, in which we m
 <img class="ui centered massive floated image" src="{{ site.baseurl }}/images/about.png">
 <br>
 <img class="ui centered massive floated image" src="{{ site.baseurl }}/images/chat.png">
+<br>
 
 During my Fall semester of 2016, I took the ICS 314: Software Engineering course at the University of Hawaii at Manoa. For the class' final project, we had to work in a group to develop a web application unique to UH Manoa and only accessible to those with a UH account using the JavaScript web application framework, Meteor. In order to handle the design, we used the UI framework Semantic UI. Within our group of four, we had to apply the software engineering process during every step of building out our app, using Git and GitHub, as well as GitHub's project management and milestones.
 
@@ -27,3 +28,4 @@ My contribution to the project was mostly technical. I dealt with the Galaxy dep
 This was the first web application and front-end work I've ever done. Thus, I've learned a lot from this project. My JavaScript capabilities have increased, as well as my knowledge on the server client interactions model, databases, and the overall process of building web apps. I've also learned a lot about web design as I haven't done much with creating my own websites prior to this. However, in the future, I hope to work with more relevant frameworks, as Meteor and Semantic UI don't seem to be used often in the field.
 
 If you want to see the source code or learn more about Manoa: The Gathering, [check out our GitHub Organization Page](https://github.com/manoa-the-gathering/).
+<br>
